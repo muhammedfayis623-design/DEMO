@@ -1,7 +1,7 @@
 <?php
 
 function greetUser($name){
-    echo "Hello,$name ! <br>";
+    echo "WELCOME,$name ! <br>";
     showage(17);
 }
 greetUser("fayi");
